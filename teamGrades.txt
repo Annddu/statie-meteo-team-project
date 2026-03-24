@@ -1,0 +1,2 @@
+Topor Mihai 10 -> Developed the Android App & Python bridge
+Tiganasu Alexandru 10 -> Hardware assembly and Arduino firmware logic
