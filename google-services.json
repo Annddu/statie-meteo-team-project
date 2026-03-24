@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "796419631227",
+    "firebase_url": "https://statiemeteoiot-90d40-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "statiemeteoiot-90d40",
+    "storage_bucket": "statiemeteoiot-90d40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796419631227:android:495ce5b12ec2a15998dade",
+        "android_client_info": {
+          "package_name": "com.example.plantguardian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwSxdSfy5AJWEB7dbGNjj-TPrkdX7kXes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

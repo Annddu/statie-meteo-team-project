@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#E8F5E9">
+
+    <TextView
+        android:id="@+id/textTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🌡️ Temperatură: -- °C"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#D32F2F"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:id="@+id/textUmidAer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="💨 Umiditate Aer: -- %"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#1976D2"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:id="@+id/textUmidSol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🌱 Umiditate Sol: -- %"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#388E3C"/>
+
+    <Button
+        android:id="@+id/btnCanta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🎵 Trimite Melodie!"
+        android:backgroundTint="#FF9800"
+        android:layout_marginTop="40dp"
+        android:padding="15dp"
+        android:textSize="20sp" />
+
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/chartTemperatura"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_margin="16dp" />
+</LinearLayout>
