@@ -30,7 +30,6 @@ Developed in **Kotlin**, the app provides an intuitive interface for managing yo
 | :---: | :---: |
 | ![APP](https://github.com/Annddu/statie-meteo-team-project/blob/main/aplicatiess.jpeg) | ![CIRCUIT](https://github.com/Annddu/statie-meteo-team-project/blob/main/schema.png) |
 
-> *Note: Replace the placeholders above with actual screenshots from your app saved in the `images` folder.*
 
 ---
 
